@@ -3,7 +3,7 @@ Building Neural Network from Scratch without using any standard inbuilt python l
 
 # Neural Network Implementation from Scratch
 ### Overview
-This project aims to demonstrate the implementation of a neural network from scratch, without relying on any standard inbuilt libraries such as TensorFlow or PyTorch. By building a neural network from the ground up, we gain a deeper understanding of its underlying principles and mechanics.
+This project aims to demonstrate the implementation of a neural network from scratch, without relying on any standard inbuilt libraries such as TensorFlow or PyTorch. By building a neural network from the ground up, we gain a deeper understanding of its underlying principles and mechanics.3 Datasets are used for this - Blobs, Circles and Fashion MNIST.
 
 ### Features
 Custom Implementation: We develop every component of the neural network, including layers, activation functions, loss functions, and optimization algorithms, from scratch using Python.
@@ -32,7 +32,7 @@ Develop a training pipeline to iteratively train the neural network on labeled d
 #### Getting Started
 To get started with this project, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/neural-network-from-scratch.git.
+
 
 Navigate to the Directory: Move into the project directory using cd neural-network-from-scratch.
 
